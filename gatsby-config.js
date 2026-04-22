@@ -6,7 +6,7 @@ module.exports = {
     title: 'Gokul Kumar',
     description:
       'Gokul Kumar is an RTL and SoC System Design Engineer specializing in digital circuit development',
-    siteUrl: 'https://gokulkumar_v.com', // No trailing slash allowed!
+    siteUrl: 'https://gk0912.github.io', // No trailing slash allowed!
     image: '/og2.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
